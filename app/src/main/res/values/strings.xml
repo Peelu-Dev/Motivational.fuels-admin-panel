@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Motivational.fuels Admin Panel</string>
+    <string name="app_name"> Admin Panel</string>
+    <string name="logo">logo</string>
+    <string name="_app_name">Motivational.fuels App</string>
 </resources>
