@@ -7,12 +7,14 @@
         <entry key="..\:/MotivationalfuelsAdminPanel/app/src/main/res/drawable/edt_text.xml" value="0.124" />
         <entry key="..\:/MotivationalfuelsAdminPanel/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.124" />
         <entry key="..\:/MotivationalfuelsAdminPanel/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.124" />
+        <entry key="..\:/MotivationalfuelsAdminPanel/app/src/main/res/layout/activity_all_quotes.xml" value="0.11302083333333333" />
         <entry key="..\:/MotivationalfuelsAdminPanel/app/src/main/res/layout/activity_all_shayari.xml" value="0.11302083333333333" />
         <entry key="..\:/MotivationalfuelsAdminPanel/app/src/main/res/layout/activity_main.xml" value="0.11302083333333333" />
         <entry key="..\:/MotivationalfuelsAdminPanel/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
         <entry key="..\:/MotivationalfuelsAdminPanel/app/src/main/res/layout/dialog_add_category.xml" value="0.11302083333333333" />
         <entry key="..\:/MotivationalfuelsAdminPanel/app/src/main/res/layout/dialog_add_shayari.xml" value="0.11302083333333333" />
         <entry key="..\:/MotivationalfuelsAdminPanel/app/src/main/res/layout/item_category.xml" value="0.11302083333333333" />
+        <entry key="..\:/MotivationalfuelsAdminPanel/app/src/main/res/layout/item_quotes.xml" value="0.11302083333333333" />
         <entry key="..\:/MotivationalfuelsAdminPanel/app/src/main/res/layout/item_shayari.xml" value="0.11302083333333333" />
       </map>
     </option>

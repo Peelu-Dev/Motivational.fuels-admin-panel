@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1059488485569",
+    "project_id": "motivational-fuels-app",
+    "storage_bucket": "motivational-fuels-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059488485569:android:451297cffa88ecae6ac440",
+        "android_client_info": {
+          "package_name": "com.peelu.motivationalfuelsadminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059488485569-ja76ecs8b613cbpjuebnqisbsddcavvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm64pSR8hsccgt9QGKkZaGMAud9QauNCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059488485569-ja76ecs8b613cbpjuebnqisbsddcavvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059488485569:android:c755c5bafecfbb506ac440",
+        "android_client_info": {
+          "package_name": "com.peelu.motivationfuels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059488485569-ja76ecs8b613cbpjuebnqisbsddcavvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm64pSR8hsccgt9QGKkZaGMAud9QauNCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059488485569-ja76ecs8b613cbpjuebnqisbsddcavvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
