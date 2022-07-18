@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="360dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="10dp"
+    android:layout_gravity="center"
+    android:layout_height="150dp">
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_margin="10dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/addCat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:hint="@string/enter_category_name"
+            android:padding="15dp"
+            android:background="@drawable/edt_text"
+            android:importantForAutofill="no"
+            android:inputType="" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/dialogBtnAddCat"
+            android:background="@drawable/add_btn"
+            android:text="@string/add_category"
+            android:fontFamily="@font/bold"
+            android:textColor="@color/white"
+            android:paddingStart="30dp"
+            android:paddingEnd="30dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            />
+
+    </LinearLayout>
+
+
+
+</androidx.cardview.widget.CardView>

@@ -23,8 +23,9 @@
                 android:layout_alignParentStart="true"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="20dp"
+                android:id="@+id/toolbarTitle"
                 android:fontFamily="@font/bold"
-                android:text="@string/_admin_panel_"
+                android:text="@string/_admin_panel"
                 android:textAlignment="center"
                 android:textColor="@color/white"
                 android:textSize="20sp"
@@ -36,7 +37,7 @@
             <ImageView
                 android:layout_width="35dp"
                 android:layout_height="35dp"
-                android:id="@+id/btnAddCat"
+                android:id="@+id/btnAddQuotes"
                 android:layout_marginEnd="20dp"
                 android:layout_alignParentEnd="true"
                 android:background="@drawable/ic_baseline_add_24"
@@ -50,7 +51,7 @@
         <androidx.recyclerview.widget.RecyclerView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:id="@+id/recyclerViewCategory"
+            android:id="@+id/rcvAllQuotes"
             android:layout_below="@+id/toolbar"
             />
     </RelativeLayout>

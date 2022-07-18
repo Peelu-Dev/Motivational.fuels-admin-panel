@@ -7,31 +7,27 @@
     tools:context=".SplashScreen">
 
     <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="250dp"
-        android:background="@drawable/logo"
-        android:id="@+id/logo"
+        android:id="@+id/imageView"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:contentDescription="@string/logo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:contentDescription="@string/logo">
-
-    </ImageView>
+        app:layout_constraintVertical_bias="0.42000002"
+        app:srcCompat="@drawable/logo" />
 
     <TextView
+        android:id="@+id/spScreenText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/_app_name"
+        android:layout_marginTop="16dp"
+        android:text="@string/admin_panel"
+        android:textColor="@color/black"
+        android:textSize="28sp"
+        android:textStyle="bold|italic"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/logo"
-        android:layout_marginTop="16dp"
-        android:textStyle="bold|italic"
-        android:textSize="22sp"
-        android:textColor="@color/black"
-        >
-
-    </TextView>
-
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
 </androidx.constraintlayout.widget.ConstraintLayout>
